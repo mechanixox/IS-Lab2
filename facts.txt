@@ -1,0 +1,6 @@
+the patient has pale skin color
+the patient is feeling tired
+the patient has cancer
+the patient has loss of appetite
+the patient is feeling weak
+the patient has fatigue
